@@ -1,0 +1,66 @@
+/* input:active{
+    background-color: yellow;
+}
+
+input:hover{
+    border: 5px solid green;
+}
+
+input:focus{
+    background-color: purple;
+} */
+
+
+/*  overfloWing */
+/* p.one{
+    background-color: yellow;
+    overflow: hidden;
+      height: 50px; /* fix height */
+/* }  */
+
+/* #two{
+    background-color: palevioletred;
+    border: 4px solid gray;
+    overflow: scroll;
+    height: 90px;
+    width: 500px;
+} */
+
+
+
+
+
+
+p{
+    background-color: aqua;
+    /* border: 5px groove orange; */
+    /* border-left: 20px dotted pink;
+    border-right: 20px double rgb(55, 126, 41);
+    border-bottom:  20px ridge rgb(139, 120, 123);
+    border-top: 20px inset rgb(216, 121, 166); */
+border: 8px double grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
